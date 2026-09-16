@@ -1,0 +1,26 @@
+src/
+  components/
+    layout/
+      Header.tsx
+      Layout.tsx
+    expenses/
+      ExpenseForm.tsx
+      ExpenseList.tsx
+      ExpenseItem.tsx
+    dashboard/
+      SpendingSummary.tsx
+      CategoryBreakdown.tsx
+      BudgetProgress.tsx
+  pages/
+    DashboardPage.tsx
+    ExpensesPage.tsx
+    SettingsPage.tsx
+  context/
+    AppContext.tsx
+  types/
+    index.ts
+  data/
+    categories.ts
+  App.tsx
+  main.tsx
+  index.css

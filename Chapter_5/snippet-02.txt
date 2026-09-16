@@ -1,0 +1,11 @@
+App
+  Layout (Header + main content area)
+    DashboardPage
+      SpendingSummary
+      CategoryBreakdown
+      BudgetProgress
+    ExpensesPage
+      ExpenseForm
+      ExpenseList
+        ExpenseItem (repeated)
+    SettingsPage
